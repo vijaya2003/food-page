@@ -1,0 +1,81 @@
+li{
+    display:inline;
+    color: white;
+    padding-left:40px;
+    
+}
+h1{
+    display: inline;
+}
+.div0{
+    display: inline;
+    float: left;
+    /* background-color: skyblue; */
+}
+.div1{
+    width: 50px;
+    height: 350px;
+    background-color:green;
+    padding-top:50px;  
+}
+.div2{
+    width: 50px;
+    height: 400px;
+    background-color: yellow;
+}
+.but1{
+    float:right;
+    display: inline;
+    background-color:yellow;
+    width: 100px;
+    height: 35px;
+}
+.bg{
+    background-color:rgba(1, 0, 3, 0.5);
+    width:1500px;
+    height:800px;
+    
+}
+.h{
+    display:block;
+    padding:150px;
+    color: whitesmoke;   
+    font-size: 50px;
+}
+.sp{
+    display:inline;
+   color: yellow;
+}
+.div3{
+  float: left;
+}
+.div4{
+    padding-left: 200px;
+}
+
+.test{
+    writing-mode: vertical-lr;
+    font-size: 10px;
+}
+.hov:hover{
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 5px;
+    cursor:pointer
+
+}
+.but2{
+    background-color: yellow;
+    width:120x;
+    height:30px;
+}
+.h1{
+background-color: yellow;
+}
+.but3{
+    background-color: yellow;
+    float: right;
+}
+h2{
+    padding-top: 100px;
+}
